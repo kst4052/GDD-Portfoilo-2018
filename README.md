@@ -1,8 +1,8 @@
 # GDD-Portfoilo-2018
 ## Kaitlyn Tran
 Hello! My name is Kaitlyn Tran. I am sophomore at Rochester Institute of Technology in the Computer Science Program. This page contains links to a few of my projects.  
-Click [here](https://github.com/kst4052/GDD-Portfoilo-2018/blob/master/Kaitlyn%20Tran%20Resume%202018.pdf) to see my resume.
-You can view my change of major essay [here](https://github.com/kst4052/GDD-Portfoilo-2018/blob/master/Change%20of%20major%20essay.pdf).
+Click [here](https://github.com/kst4052/GDD-Portfoilo-2018/blob/master/Resume%20.pdf) to see my resume.
+You can view my change of major essay [here](https://github.com/kst4052/GDD-Portfoilo-2018/blob/master/change%20of%20major%20essay.pdf).
 
 ## Projects
 * [Alt-Tab](https://github.com/kst4052/Alt-Tab)
