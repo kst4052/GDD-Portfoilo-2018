@@ -8,7 +8,7 @@ You can view my change of major essay [here](https://github.com/kst4052/GDD-Port
 * [Alt-Tab](https://github.com/kst4052/Alt-Tab)
   * Game created during the 2018 Game Jam hosted by RIT Game Dev Club. The team was comprised of six people and was finished within a 48 hour time limit. The theme of the jam was: "every day tasks". Won "Best in Design".
 * [Project-Zodiac](https://github.com/kst4052/Project-Zodiac)
- * A project that started in summer of 2018. The team is comprised of 7 people, and it is an adventure RPG set in China. This is heavily based on Chinese mythology.
+  * A project that started in summer of 2018. The team is comprised of 7 people, and it is an adventure RPG set in China. This is heavily based on Chinese mythology.
 * [Storybook Project](https://github.com/kst4052/Storybook-Project)
   * This project was comprised in a group with me and 6 other people. Each student needed to create 2-3 3D models separately. When they were finished they were to use all the models in various scenes for a story book. Students were to create their own stories based off of what models were created. Once pages were made for each scene, they were textured into the book model. The book was animated to flip the pages of the book. I created the animation for the page flip. Once the storybook was completed, students were to animate all models based off the story. 
 * [Kirby Tutorial](https://github.com/kst4052/Kirby-Tutorial-)
